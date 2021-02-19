@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5f08dfb-042a-46ae-8dd5-94f371f05030" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Vue-apps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing/basics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing/basics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing/basics/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing/basics/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing/basics/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing/basics/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing/basics/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing/basics/public/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing/basics/src/app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing/basics/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing/basics/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ofkxwyEodK4yOmjJtQTVBwbp7P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/routing" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\naatk\OneDrive\Dokumenty\GitHub\Vue-apps\routing\vue-app\public" />
+      <recent name="C:\Users\naatk\OneDrive\Dokumenty\GitHub\Vue-apps\routing\vue-app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\naatk\OneDrive\Dokumenty\GitHub\Vue-apps\routing" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5f08dfb-042a-46ae-8dd5-94f371f05030" name="Default Changelist" comment="" />
+      <created>1613685282114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613685282114</updated>
+      <workItem from="1613685283517" duration="1593000" />
+      <workItem from="1613733533416" duration="6789000" />
+      <workItem from="1613766886805" duration="2620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="691" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613745283582">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="691" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1613745283582" />
+    <state width="614" height="162" key="GridCell.Tab.0.bottom" timestamp="1613745630795">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="614" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1613745630795" />
+    <state width="614" height="162" key="GridCell.Tab.0.center" timestamp="1613745630794">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="614" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1613745630794" />
+    <state width="614" height="162" key="GridCell.Tab.0.left" timestamp="1613745630794">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="614" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1613745630794" />
+    <state width="614" height="162" key="GridCell.Tab.0.right" timestamp="1613745630794">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="614" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1613745630794" />
+    <state x="314" y="0" key="SettingsEditor" timestamp="1613687222863">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="314" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1613687222863" />
+  </component>
+</project>
