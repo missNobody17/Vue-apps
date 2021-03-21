@@ -2,75 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f08dfb-042a-46ae-8dd5-94f371f05030" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/bulma/bulma.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/bulma/bulma.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/HELP-US-OUT.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/screen-reader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/server-cart-data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/server-product-data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/assets/cap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/assets/hoodie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/assets/jacket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/assets/tee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/components/NotFound.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/components/cart/CartList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/components/cart/CartListItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/components/login/LoginBox.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/components/product/ProductItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/components/product/ProductList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/components/product/ProductListItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/store/modules/cart/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/store/modules/login/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/app/store/modules/product/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing/shopping_cart/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/basics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/basics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/basics/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/basics/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/basics/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/basics/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/basics/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/basics/public/semantic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/basics/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/basics/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/basics/tests/unit/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/basics/tests/unit/App.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/basics/vue.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routing/shopping_cart/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/routing/shopping_cart/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,12 +44,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/routing/shopping_cart/src/app/store/modules/product" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testing/basics" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testing/basics" />
+      <recent name="$PROJECT_DIR$/testing/basics/tests/unit" />
       <recent name="C:\Users\naatk\OneDrive\Dokumenty\GitHub\Vue-apps\routing\shopping_cart\src\app\store\modules\product" />
       <recent name="C:\Users\naatk\OneDrive\Dokumenty\GitHub\Vue-apps\routing\shopping_cart\src\app\store\modules\cart" />
       <recent name="C:\Users\naatk\OneDrive\Dokumenty\GitHub\Vue-apps\routing" />
@@ -113,6 +62,7 @@
       <recent name="C:\Users\naatk\OneDrive\Dokumenty\GitHub\Vue-apps\routing\vue-app" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -130,11 +80,25 @@
       <workItem from="1614012456819" duration="424000" />
       <workItem from="1614183334199" duration="1261000" />
       <workItem from="1614197717924" duration="1301000" />
+      <workItem from="1615134950079" duration="6911000" />
+      <workItem from="1616015383623" duration="3134000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="691" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613769869463">
